@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "extra": {
+      "EXPO_PUBLIC_API_KEY": "AIzaSy...TU_FIREBASE_APIKEY...",
+      "EXPO_PUBLIC_AUTH_DOMAIN": "tu-proy.firebaseapp.com",
+      "EXPO_PUBLIC_PROJECT_ID": "tu-proy",
+      "EXPO_PUBLIC_STORAGE_BUCKET": "tu-proy.appspot.com",
+      "EXPO_PUBLIC_MESSAGING_SENDER_ID": "1234567890",
+      "EXPO_PUBLIC_APP_ID": "1:...:web:...",
+      "EXPO_PUBLIC_CLOUDINARY_CLOUD_NAME": "tu_cloud_name",
+      "EXPO_PUBLIC_CLOUDINARY_UPLOAD_PRESET": "tu_unsigned_preset",
+      "EXPO_GOOGLE_EXPO_CLIENT_ID": "xxxxxxxx.apps.googleusercontent.com"
+    },
+    "plugins": [
+      "expo-web-browser",
+      "expo-sqlite"
+    ]
+  }
+}
